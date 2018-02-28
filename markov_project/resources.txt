@@ -1,0 +1,16 @@
+This guy is more or less trying to do the same thing as me and validate text using 
+markov chains 
+:http://stackoverflow.com/questions/1185369/algorithms-to-identify-markov-generated-content?rq=1
+
+Simply markov chain operations in python:
+http://ikigomu.com/?p=70
+
+Markov Generation in R
+http://www.r-bloggers.com/generating-a-markov-chain-vs-computing-the-transition-matrix/
+
+Some papers
+http://www.aclweb.org/anthology/W15-1515
+http://www.cse.unt.edu/~tarau/teaching/NLP/HMM.pdf
+
+HMM toolkit in python(code)
+http://www.mit.edu/course/6/6.863/OldFiles/python/old/nltk_lite-0.7.1/nltk_lite/tag/hmm.py
